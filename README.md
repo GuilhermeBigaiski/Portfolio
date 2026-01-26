@@ -6,8 +6,7 @@ Data Analyst with experience in end-to-end data projects, covering the full data
 
 ## About Me
 
-I build data solutions focused on **automation, data reliability, and decision-making**.  
-My projects typically replace manual spreadsheets with structured databases, automated data ingestion, and interactive dashboards.
+I build data solutions focused on **automation, data reliability, and decision-making**. My projects typically replace manual spreadsheets with structured databases, automated data ingestion, and interactive dashboards.
 
 ---
 
