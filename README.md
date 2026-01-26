@@ -27,7 +27,7 @@ https://www.notion.so/Football-Performance-Financial-Control-End-to-End-Data-Pro
 
  **Source code repositories:**
 - Football Performance & Financial Control
-  https://github.com/GuilhermeBigaiski/Football_Performance_Financial_Control
+https://github.com/GuilhermeBigaiski/Football_Performance_Financial_Control
 - Statistics data ingestion (Streamlit + Python):  
   https://github.com/GuilhermeBigaiski/Estatisticas_Pelada
 - Financial data ingestion (Streamlit + Python):  
