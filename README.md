@@ -26,11 +26,12 @@ End-to-end data solution designed to manage football performance metrics, attend
 https://www.notion.so/Football-Performance-Financial-Control-End-to-End-Data-Project-2f03bca111ad80d88bf7c9f00543b6c4
 
  **Source code repositories:**
+- Football Performance & Financial Control
+  https://github.com/GuilhermeBigaiski/Football_Performance_Financial_Control
 - Statistics data ingestion (Streamlit + Python):  
-  https://github.com/GuilhermeBigaiski/estatisticas_pelada
+  https://github.com/GuilhermeBigaiski/Estatisticas_Pelada
 - Financial data ingestion (Streamlit + Python):  
-  https://github.com/GuilhermeBigaiski/financeiro_pelada
-
+  https://github.com/GuilhermeBigaiski/Financeiro_Pelada
 ---
 
 ##  Tech Stack
