@@ -12,7 +12,7 @@ I build data solutions focused on **automation, data reliability, and decision-m
 
 ## Featured Projects
 
-### Football Performance & Financial Control – End-to-End Data Project
+### I) Football Performance & Financial Control – End-to-End Data Project
 End-to-end data solution designed to manage football performance metrics, attendance tracking, and financial control.
 
 **Key topics covered:**
