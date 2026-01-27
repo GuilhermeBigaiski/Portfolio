@@ -43,3 +43,4 @@ https://www.notion.so/Football-Performance-Financial-Control-End-to-End-Data-Pro
 
 ##  Links
 - LinkedIn: https://www.linkedin.com/in/guilhermebigaiski
+- Portfolio: https://www.notion.so/Guilherme-Bigaiski-Data-Analyst-Analytics-Business-Intelligence-Portfolio-2f03bca111ad8019a2a3f00976629e31
