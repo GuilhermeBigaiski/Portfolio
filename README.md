@@ -22,7 +22,8 @@ End-to-end data solution designed to manage football performance metrics, attend
 - Interactive dashboards (Power BI)
 
  **I.II - Project documentation:**  
-https://www.notion.so/Football-Performance-Financial-Control-End-to-End-Data-Project-2f03bca111ad80d88bf7c9f00543b6c4
+- Football Performance & Financial Control:
+  https://www.notion.so/Football-Performance-Financial-Control-End-to-End-Data-Project-2f03bca111ad80d88bf7c9f00543b6c4
 
  **I.III - Source code repositories:**
 - Football Performance & Financial Control: 
